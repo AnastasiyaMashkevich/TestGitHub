@@ -4,9 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-/**
- * Created by anastasiya_mashkevic on 3/16/17.
- */
+
 public class SquareTest {
     Square square =new Square();
 

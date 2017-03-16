@@ -6,4 +6,5 @@ public class Square {
     {
         return a*b;
     }
+
 }
